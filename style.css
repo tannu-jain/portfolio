@@ -11,7 +11,8 @@
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Public Sans', sans-serif;
   font-weight: 400;
   /*font-size: 16px;*/
   line-height: 1.7;
@@ -37,10 +38,10 @@ body {
 
   height: 100vh;
   background-color: -webkit-linear-gradient(to right, #24c7dc9d, #514a9da6);
-  background-image: url(cover.jpg);
+  /* background-image: url(cover.jpg); */
 
-  background-image: linear-gradient(to right, #49a09d9d, #602c82a6),
-    url(cover.jpg);
+  /* background-image: linear-gradient(to right, #49a09d9d, #602c82a6),
+    url(cover.jpg); */
   background-size: cover;
   background-position: center;
 }
